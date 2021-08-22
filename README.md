@@ -1,5 +1,5 @@
 # Welcome to my GitHub!
-## Interest fields:
+## Fields of interest:
 - AI
 - Blockchain
 - DDDM
