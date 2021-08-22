@@ -8,5 +8,5 @@
   - Code optimization
 - SocialEng
 ## Other things:
-- CodeWars <br><br>
+- CodeWars <br>
 ![](https://www.codewars.com/users/JanekDev/badges/large)
