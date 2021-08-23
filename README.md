@@ -1,12 +1,16 @@
 # Welcome to my GitHub!
 ## Fields of interest:
 - AI
-- Blockchain
 - DDDM
-- SoftDev
+- Blockchain
+- Software Development
   - Competitive programming
   - Code optimization
-- SocialEng
+  - Algorithmics
+- Social Engineering & Cybersecurity
+  - Application security
+  - Pentesting
+  - Network security (also network design & devices)
 ## Other things:
 - CodeWars
 
