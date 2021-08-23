@@ -13,4 +13,4 @@
 ![](https://www.codewars.com/users/JanekDev/badges/large)
 
 - Great problem solving approach
-[YT link]https://youtu.be/p8u_k2LIZyo
+[YT link](https://youtu.be/p8u_k2LIZyo)
