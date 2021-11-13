@@ -1,8 +1,6 @@
 # Welcome to my GitHub!
 ## Fields of interest:
 - AI
-- DDDM
-- Blockchain
 - Software Development
   - Competitive programming
   - Code optimization
