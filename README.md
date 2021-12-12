@@ -1,14 +1,14 @@
 # Welcome to my GitHub!
 ## Fields of interest:
 - AI
+  - Transformers
+  - CV
+  - Data mining
+  - Use of AI in psychometrics
 - Software Development
   - Competitive programming
   - Code optimization
-  - Algorithmics
-- Social Engineering & Cybersecurity
-  - Application security
-  - Pentesting
-  - Network security (also network design & devices)
+  - Algorithms
 ## Other things:
 - CodeWars
 
